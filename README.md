@@ -1,2 +1,8 @@
 # pdf-separator
-Split pages of a PDF file into separate PDF documents
+
+Split pages of PDF files into separate PDF documents
+
+```sh
+composer install
+php index.php
+```

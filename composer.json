@@ -1,0 +1,15 @@
+{
+    "name": "toaanakin/pdf-separator",
+    "description": "Split pages of a PDF file into separate PDF documents",
+    "type": "project",
+    "require": {
+        "setasign/fpdi": "^2.6",
+        "setasign/fpdf": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "Pham The Anh",
+            "email": "admin@phamtheanh.eu"
+        }
+    ]
+}
